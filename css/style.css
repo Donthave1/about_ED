@@ -280,7 +280,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_home_wrapper h1{
 	position:absolute;
 	top:50%;
-	font-size:150px;
+	font-size:130px;
 	color: #ffffff;
 	font-weight:bold;
 	background: url(../images/content/s-l640.jpg) no-repeat;
@@ -292,6 +292,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     text-align: center;
     margin-top: 10%;
 }
+
 .prt_logo_wrapper img{
     position: fixed;
     left: 50px;
