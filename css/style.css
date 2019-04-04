@@ -1151,28 +1151,28 @@ input:focus, textarea:focus, select:focus, button:focus {
 	text-align:center;
 }
 #circles-1{
-	background-image:url(../images/content/python.jpg);
+	background-image:url(../images/content/sql.jpg);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-2{
-	background-image:url(../images/content/webdev.png);
+	background-image:url(../images/content/python.jpg);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-3{
-	background-image:url(../images/content/ml.jpg);
+	background-image:url(../images/content/webdev.png);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-4{
-	background-image:url(../images/content/sql.jpg);
+	background-image:url(../images/content/ml.jpg);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
